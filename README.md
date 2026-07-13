@@ -32,4 +32,9 @@ Soy un Ingeniero en Sistemas Computaciones con interés en el en el análisis y 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+***
+
 ### 🛠 Proyectos destacados
+
+Proyecto realizado con modelo de regresión lineal, el cual predice las ventas que generará el medio publicitario (Radio, TV o Periodico) según la inversión publicitaria que se le haga.
+### [Proyecto](https://github.com/aacekm-7/Prediccion-Ventas-MediosPublicitarios)

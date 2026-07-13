@@ -6,7 +6,7 @@ Soy un Ingeniero en Sistemas Computaciones con interés en el en el análisis y 
 
 #
 
-### 🛠 Habilidades
+### 📈 Habilidades
 
 - Limpieza y Transformación de Datos
 - Análisis Exploratorio de Datos (EDA)

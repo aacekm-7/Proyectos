@@ -36,5 +36,18 @@ Soy un Ingeniero en Sistemas Computaciones con interés en el en el análisis y 
 
 ### 🛠 Proyectos destacados
 
+#
+
 Proyecto realizado con modelo de regresión lineal, el cual predice las ventas que generará el medio publicitario (Radio, TV o Periodico) según la inversión publicitaria que se le haga.
 ### [Proyecto](https://github.com/aacekm-7/Prediccion-Ventas-MediosPublicitarios)
+
+***
+
+Análisis de datos empresariales utilizando la base de datos Northwind, con el objetivo de transformar información transaccional en indicadores estratégicos que permitan evaluar el desempeño comercial, el comportamiento de los clientes, la distribución geográfica de las ventas y el rendimiento de productos y categorías.
+### [Proyecto](https://github.com/aacekm-7/Northwind-PowerBI-SQL)
+
+***
+
+Este proyecto utiliza la base de datos Wide World Importers para construir un dashboard interactivo en Power BI que permite analizar el desempeño de las ventas de una empresa mayorista. Se diseñó un modelo de datos eficiente, se desarrollaron medidas en DAX y se crearon visualizaciones enfocadas en responder preguntas de negocio mediante indicadores clave y análisis interactivos.
+### [Proyecto](https://github.com/aacekm-7/WideWorldImporters-PowerBI-SQL-)
+

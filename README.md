@@ -41,6 +41,9 @@ Soy un Ingeniero en Sistemas Computaciones con interés en el en el análisis y 
 Proyecto realizado con modelo de regresión lineal, el cual predice las ventas que generará el medio publicitario (Radio, TV o Periodico) según la inversión publicitaria que se le haga.
 ### [Proyecto](https://github.com/aacekm-7/Prediccion-Ventas-MediosPublicitarios)
 
+<img width="1829" height="725" alt="image" src="https://github.com/user-attachments/assets/bac17bc0-a236-405a-968c-9ab682e7d611" />
+
+
 ***
 
 Análisis de datos empresariales utilizando la base de datos Northwind, con el objetivo de transformar información transaccional en indicadores estratégicos que permitan evaluar el desempeño comercial, el comportamiento de los clientes, la distribución geográfica de las ventas y el rendimiento de productos y categorías.

@@ -15,7 +15,7 @@ Soy un Ingeniero en Sistemas Computaciones con interés en el en el análisis y 
 - Segmentación de Clientes (RFM)
 - Diseño de KPIs e Insights de Negocio
 - Estadística Aplicada
-- Modelado Predictivo con Regresión Lineal
+- Modelado predictivo con Regresión Lineal y Random Forest
 
 ***
 

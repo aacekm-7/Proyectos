@@ -51,7 +51,7 @@ Análisis de datos empresariales utilizando la base de datos Northwind, con el o
 
 ***
 
-Proyecto de predicción de precio de viviendas según las variables que la componen como el área habitable en metros cuadrados, calidad general de la vivienda (1-10), si tiene garaje o no, entre otras variables. Se desarrolló con dos modelos: Regresion Lineal y Random Forest. 
+Proyecto de predicción del precio de una vivienda según las variables que la componen como el área habitable en metros cuadrados, calidad general de la vivienda (1-10), si tiene garaje o no, estilo de la vivienda, entre otras características importantes. Se desarrolló con dos modelos: Regresion Lineal y Random Forest. 
 ### [Proyecto](https://github.com/aacekm-7/Prediccion-Precio-Casas)
 
 

@@ -38,7 +38,7 @@ Soy un Ingeniero en Sistemas Computaciones con interés en el en el análisis y 
 
 #
 
-Proyecto de predicción del precio de una vivienda según las variables que la componen como el área habitable en metros cuadrados, calidad general de la vivienda (1-10), si tiene garaje o no, estilo de la vivienda, entre otras características importantes. Se desarrolló con dos modelos: Regresion Lineal y Random Forest. 
+Proyecto de ML sobre predicción del precio de una vivienda según las variables que la componen como el área habitable en metros cuadrados, calidad general de la vivienda (1-10), si tiene garaje o no, estilo de la vivienda, entre otras características importantes. Se desarrolló con dos modelos: Regresion Lineal y Random Forest. 
 ### [Proyecto](https://github.com/aacekm-7/Prediccion-Precio-Casas)
 
 <img width="1086" height="811" alt="image" src="https://github.com/user-attachments/assets/a2c073c1-4dde-44ec-9f3f-203529a04a19" />

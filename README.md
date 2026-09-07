@@ -38,6 +38,13 @@ Soy un Ingeniero en Sistemas Computaciones con interés en el en el análisis y 
 
 #
 
+Proyecto de predicción de abandono de cliente de una empresa de servicios de IPS (red, telefonía, etc) y demás características, como la edad, duración de servicio contratado, etc. En este proyecto se llevo un exhaustivo EDA para ver sus distribuciones, correlaciones, entre otras características...
+en el cual encontramos un impactante desbalance de clases (la clase minorista) y demás. Entrené el proyecto con varios modelos: Regresión Logistica, KNN y Random Forest, en los cuales realizamos en cada uno de ello un deslpliege de datos sintenticos para balancear la clase minorista y que el modelo no tenga peso donde no debería tener. 
+
+### [Proyecto](https://github.com/aacekm-7/Prediccion-De-Churn-ML/blob/main/README.md)
+
+#
+
 Proyecto de ML sobre predicción del precio de una vivienda según las variables que la componen como el área habitable en metros cuadrados, calidad general de la vivienda (1-10), si tiene garaje o no, estilo de la vivienda, entre otras características importantes. Se desarrolló con dos modelos: Regresion Lineal y Random Forest. 
 ### [Proyecto](https://github.com/aacekm-7/Prediccion-Precio-Casas)
 

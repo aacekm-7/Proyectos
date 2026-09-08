@@ -42,18 +42,12 @@ Proyecto de predicción de abandono de clientes de una empresa de servicios ISP 
 
 ### [Proyecto](https://github.com/aacekm-7/Prediccion-De-Churn-ML/blob/main/README.md)
 
-#
+***
 
 Proyecto de ML sobre predicción del precio de una vivienda según las variables que la componen como el área habitable en metros cuadrados, calidad general de la vivienda (1-10), si tiene garaje o no, estilo de la vivienda, entre otras características importantes. Se desarrolló con dos modelos: Regresion Lineal y Random Forest. 
 ### [Proyecto](https://github.com/aacekm-7/Prediccion-Precio-Casas)
 
 <img width="1086" height="811" alt="image" src="https://github.com/user-attachments/assets/a2c073c1-4dde-44ec-9f3f-203529a04a19" />
-
-
-***
-
-Análisis de datos empresariales utilizando la base de datos Northwind, con el objetivo de transformar información transaccional en indicadores estratégicos que permitan evaluar el desempeño comercial, el comportamiento de los clientes, la distribución geográfica de las ventas y el rendimiento de productos y categorías.
-### [Proyecto](https://github.com/aacekm-7/Northwind-PowerBI-SQL)
 
 ***
 
@@ -61,6 +55,12 @@ Proyecto realizado con modelo de regresión lineal, el cual predice las ventas q
 ### [Proyecto](https://github.com/aacekm-7/Prediccion-Ventas-MediosPublicitarios)
 
 <img width="1829" height="725" alt="image" src="https://github.com/user-attachments/assets/bac17bc0-a236-405a-968c-9ab682e7d611" />
+
+
+***
+
+Análisis de datos empresariales utilizando la base de datos Northwind, con el objetivo de transformar información transaccional en indicadores estratégicos que permitan evaluar el desempeño comercial, el comportamiento de los clientes, la distribución geográfica de las ventas y el rendimiento de productos y categorías.
+### [Proyecto](https://github.com/aacekm-7/Northwind-PowerBI-SQL)
 
 
 ***

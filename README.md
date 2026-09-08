@@ -38,8 +38,7 @@ Soy un Ingeniero en Sistemas Computaciones con interés en el en el análisis y 
 
 #
 
-Proyecto de predicción de abandono de cliente de una empresa de servicios de IPS (red, telefonía, etc) y demás características, como la edad, duración de servicio contratado, etc. En este proyecto se llevo un exhaustivo EDA para ver sus distribuciones, correlaciones, entre otras características...
-en el cual encontramos un impactante desbalance de clases (la clase minorista) y demás. Entrené el proyecto con varios modelos: Regresión Logistica, KNN y Random Forest, en los cuales realizamos en cada uno de ello un deslpliege de datos sintenticos para balancear la clase minorista y que el modelo no tenga peso donde no debería tener. 
+Proyecto de predicción de abandono de clientes de una empresa de servicios ISP (internet, telefonía, etc.), a partir de características como edad, duración del servicio contratado, tipo de contrato, entre otras. Se realizó un EDA exhaustivo para analizar distribuciones y correlaciones, donde se detectó un fuerte desbalance de clases en la variable objetivo. Se entrenaron y compararon tres modelos — Regresión Logística, KNN y Random Forest — manejando el desbalance con la técnica adecuada según cada algoritmo: class_weight='balanced' para Regresión Logística y Random Forest, y sobremuestreo sintético (SMOTE) para KNN. Random Forest resultó el modelo más sólido, con mejor balance entre precision y recall en la clase minoritaria.
 
 ### [Proyecto](https://github.com/aacekm-7/Prediccion-De-Churn-ML/blob/main/README.md)
 

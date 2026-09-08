@@ -52,7 +52,7 @@ Proyecto de ML sobre predicción del precio de una vivienda según las variables
 ***
 
 Proyecto realizado con modelo de regresión lineal, el cual predice las ventas que generará el medio publicitario (Radio, TV o Periodico) según la inversión publicitaria que se le haga.
-### [Proyecto](https://github.com/aacekm-7/Prediccion-Ventas-MediosPublicitarios)
+### [Proyecto](https://github.com/aacekm-7/Prediccion-Ventas-MediosPublicitarios/blob/0a0149a8ac614641de969e6373217e42154036f8/notebooks/proyecto_v2%20_.ipynb)
 
 <img width="1829" height="725" alt="image" src="https://github.com/user-attachments/assets/bac17bc0-a236-405a-968c-9ab682e7d611" />
 

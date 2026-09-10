@@ -40,7 +40,7 @@ Soy un Ingeniero en Sistemas Computaciones con interés en el en el análisis y 
 
 ### [Proyecto](https://github.com/aacekm-7/Prediccion-De-Churn-ML/blob/main/README.md)
 
-Proyecto de predicción de abandono de clientes de una empresa de servicios ISP (internet, telefonía, etc.), a partir de características como edad, duración del servicio contratado, tipo de contrato, entre otras. Se realizó un EDA exhaustivo para analizar distribuciones y correlaciones, donde se detectó un fuerte desbalance de clases en la variable objetivo. Se entrenaron y compararon tres modelos — Regresión Logística, KNN y Random Forest — manejando el desbalance con la técnica adecuada según cada algoritmo: class_weight='balanced' para Regresión Logística y Random Forest, y sobremuestreo sintético (SMOTE) para KNN. Random Forest resultó el modelo más sólido, con mejor balance entre precision y recall en la clase minoritaria.
+Proyecto de predicción de abandono de clientes de una empresa de servicios ISP (internet, telefonía, etc.), a partir de características como edad, duración del servicio contratado, tipo de contrato, entre otras. Se realizó un EDA exhaustivo para analizar distribuciones y correlaciones, donde se detectó un fuerte desbalance de clases en la variable objetivo. Se entrenaron y compararon tres modelos — Regresión Logística, KNN y Random Forest — manejando el desbalance con la técnica adecuada según cada algoritmo: **class_weight='balanced'** para Regresión Logística y Random Forest, y sobremuestreo sintético (SMOTE) para KNN. Random Forest resultó el modelo más sólido, con mejor balance entre precision y recall en la clase minoritaria.
 
 ***
 

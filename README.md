@@ -12,7 +12,6 @@ Soy un Ingeniero en Sistemas Computaciones con interés en el en el análisis y 
 - Análisis Exploratorio de Datos (EDA)
 - Visualización de Datos y Creación de Dashboards
 - Pronósticos y Análisis de Series Temporales
-- Segmentación de Clientes (RFM)
 - Diseño de KPIs e Insights de Negocio
 - Estadística Aplicada
 - Modelado predictivo avanzado y algoritmos de Machine Learning

@@ -35,7 +35,15 @@ Soy un Ingeniero en Sistemas Computaciones con interés en el en el análisis y 
 
 ### 🛠 Proyectos destacados
 
-#
+***
+
+### [Proyecto](https://github.com/aacekm-7/Northwind-PowerBI-SQL)
+
+Análisis de datos empresariales utilizando la base de datos Northwind, con el objetivo de transformar información transaccional en indicadores estratégicos que permitan evaluar el desempeño comercial, el comportamiento de los clientes, la distribución geográfica de las ventas y el rendimiento de productos y categorías.
+
+<img width="1377" height="774" alt="image" src="https://github.com/user-attachments/assets/d4c42e25-d28a-46ff-ba06-02c02780900f" />
+
+***
 
 ### [Proyecto](https://github.com/aacekm-7/Prediccion-De-Churn-ML/blob/main/README.md)
 
@@ -45,24 +53,21 @@ Proyecto de predicción de abandono de clientes de una empresa de servicios ISP 
 
 ***
 
-Proyecto de ML sobre predicción del precio de una vivienda según las variables que la componen como el área habitable en metros cuadrados, calidad general de la vivienda (1-10), si tiene garaje o no, estilo de la vivienda, entre otras características importantes. Se desarrolló con dos modelos: Regresion Lineal y Random Forest. 
 ### [Proyecto](https://github.com/aacekm-7/Prediccion-Precio-Casas)
+
+Proyecto de ML sobre predicción del precio de una vivienda según las variables que la componen como el área habitable en metros cuadrados, calidad general de la vivienda (1-10), si tiene garaje o no, estilo de la vivienda, entre otras características importantes. Se desarrolló con dos modelos: Regresion Lineal y Random Forest. 
+
 
 <img width="1086" height="811" alt="image" src="https://github.com/user-attachments/assets/a2c073c1-4dde-44ec-9f3f-203529a04a19" />
 
 ***
 
-Proyecto realizado con modelo de regresión lineal, el cual predice las ventas que generará el medio publicitario (Radio, TV o Periodico) según la inversión publicitaria que se le haga.
 ### [Proyecto](https://github.com/aacekm-7/Prediccion-Ventas-MediosPublicitarios/blob/0a0149a8ac614641de969e6373217e42154036f8/notebooks/proyecto_v2%20_.ipynb)
+
+Proyecto realizado con modelo de regresión lineal, el cual predice las ventas que generará el medio publicitario (Radio, TV o Periodico) según la inversión publicitaria que se le haga.
 
 <img width="1829" height="725" alt="image" src="https://github.com/user-attachments/assets/bac17bc0-a236-405a-968c-9ab682e7d611" />
 
-
-***
-
-### [Proyecto](https://github.com/aacekm-7/Northwind-PowerBI-SQL)
-
-Análisis de datos empresariales utilizando la base de datos Northwind, con el objetivo de transformar información transaccional en indicadores estratégicos que permitan evaluar el desempeño comercial, el comportamiento de los clientes, la distribución geográfica de las ventas y el rendimiento de productos y categorías.
 
 ***
 

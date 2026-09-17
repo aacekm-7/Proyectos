@@ -71,6 +71,3 @@ Proyecto realizado con modelo de regresión lineal, el cual predice las ventas q
 
 ***
 
-### [Proyecto](https://github.com/aacekm-7/WideWorldImporters-PowerBI-SQL-)
-
-Este proyecto utiliza la base de datos Wide World Importers para construir un dashboard interactivo en Power BI que permite analizar el desempeño de las ventas de una empresa mayorista. Se diseñó un modelo de datos eficiente, se desarrollaron medidas en DAX y se crearon visualizaciones enfocadas en responder preguntas de negocio mediante indicadores clave y análisis interactivos.

@@ -2,7 +2,7 @@
 
 ### 👋 Hola, soy Eddy 
 
-Soy un Ingeniero en Sistemas Computaciones con interés en el en el análisis y ciencia de datos. Me apasiona transformar datos en información útil para apoyar la toma de decisiones, utilizando herramientas como SQL, Power BI y Python. Actualmente continúo fortaleciendo mis conocimientos mediante proyectos prácticos y aprendizaje continuo.
+Soy un Ingeniero en Sistemas Computacionales con interés en el en el análisis y ciencia de datos. Me apasiona transformar datos en información útil para apoyar la toma de decisiones, utilizando herramientas como SQL, Power BI y Python. Actualmente continúo fortaleciendo mis conocimientos mediante proyectos prácticos y aprendizaje continuo.
 
 #
 
